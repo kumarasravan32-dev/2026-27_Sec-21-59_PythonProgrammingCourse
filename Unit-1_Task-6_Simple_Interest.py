@@ -1,3 +1,4 @@
+#SIMPLE INTREST:PTR/100
 principal=float(input("Enter the principal amount: "))
 rate=float(input("Enter the rate of interest: "))
 time=float(input("Enter the time (in years): "))
