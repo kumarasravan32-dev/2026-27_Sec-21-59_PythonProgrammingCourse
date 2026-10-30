@@ -1,3 +1,4 @@
+#compuond intrest:
 principal = float(input("Enter principal amount: "))
 rate = float(input("Enter rate of interest: "))
 time = float(input("Enter time in years: "))
